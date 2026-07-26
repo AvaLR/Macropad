@@ -1,0 +1,10 @@
+#Processor Options
+MCU = RP2040
+BOOTLOADER = rp2040
+
+# Feature Options
+BOOTMAGIC_ENABLE = yes
+EXTRAKEY_ENABLE = yes
+RGBLIGHT_ENABLE = yes
+ENCODER_ENABLE = yes
+OLED_ENABLE = yes
