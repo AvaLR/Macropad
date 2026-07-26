@@ -5,9 +5,9 @@ PCB:
 - I originally started with a 3X4 with 2 rotary encoders and 1 OLED
 - I wanted to add LEDs so I removed 1 rotary encoder and made the other rotary encoder's button the same as button 3. Also made it a 3X3 instead of a 3X4.
 - Wiring was a challenge and reminded me of that Flow Free game so it was kinda fun in that aspect.
-<img width="500" height="600" alt="Screenshot 2026-07-26 at 11 47 30 AM" src="https://github.com/user-attachments/assets/377be910-935b-4b73-b9b2-1cf1fc368a45" />
-<img width="500" height="600" alt="Screenshot 2026-07-26 at 11 47 11 AM" src="https://github.com/user-attachments/assets/d07dd326-7d89-47b7-89c3-21e263804044" />
-<img width="1000" height="600" alt="Screenshot 2026-07-26 at 11 45 51 AM" src="https://github.com/user-attachments/assets/fb5088c5-9bf2-4845-89aa-9a4b1e98069b" />
+<img width="500" height="350" alt="Screenshot 2026-07-26 at 11 47 30 AM" src="https://github.com/user-attachments/assets/377be910-935b-4b73-b9b2-1cf1fc368a45" />
+<img width="500" height="350" alt="Screenshot 2026-07-26 at 11 47 11 AM" src="https://github.com/user-attachments/assets/d07dd326-7d89-47b7-89c3-21e263804044" />
+<img width="1000" height="350" alt="Screenshot 2026-07-26 at 11 45 51 AM" src="https://github.com/user-attachments/assets/fb5088c5-9bf2-4845-89aa-9a4b1e98069b" />
 
 
 
