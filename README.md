@@ -16,4 +16,5 @@ Enclosure:
 - The top enclosure was a 120mm x 100mm x 3mm so with the top and bottom enclosure together it turned into a 120mm x 100mm x 16mm enclosure.
 
 Firmware:
-- Coming Soon - starting today 
+- Created 3 layers of Buttons: Daily, AVTF & Coding
+- 
