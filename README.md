@@ -36,6 +36,6 @@ Firmware:
 
 
 Credit: 
-Info & Guide - Hack Club
-PCB, Enclosure, Firmware - Ava Russell using QMK Resources/Code/Guide
-Debugging Help - AI
+- Info & Guide - Hack Club
+- PCB, Enclosure, Firmware - Ava Russell using QMK Resources/Code/Guide
+- Debugging Help - AI
