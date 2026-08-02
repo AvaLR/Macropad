@@ -23,7 +23,9 @@ Firmware:
 - Created 3 layers of Buttons: Daily, AVTF & Coding
 - Each layer does different things that will make my life easier from study time to coding to editing videos!
 - Each layer has its own RGB unkeyglow color, and the OLED will show what the layer I'm on
-<>
+  <img width="955" height="350" alt="Screenshot 2026-08-02 at 5 45 00 PM" src="https://github.com/user-attachments/assets/bc83ac18-e54a-4e20-800b-e88a87e7059f" />
+
+
 
 
 
