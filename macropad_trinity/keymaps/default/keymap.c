@@ -102,10 +102,10 @@ bool oled_task_user(void) {
 #ifdef RGBLIGHT_ENABLE
 layer_state_t layer_state_set_user(layer_state_t state) {
     switch (get_highest_layer(state)) {
-        case _DAILY:  rgblight_setrgb(0, 180, 255); break; // Blue
-        case _AVTF:   rgblight_setrgb(180, 0, 255); break; // Purple
-        case _CODING: rgblight_setrgb(0, 255, 30);  break; // Green
-    }
+        case _DAILY:  rgblight_setrgb(0, 225, 255); break; // Cyan
+        case _AVTF:   rgblight_setrgb(255, 180, 200); break; // Pastel Pink
+        case _CODING: rgblight_setrgb(211, 211, 255);  break; // Lavender
+    } 
     return state;
 }
 void keyboard_post_init_user(void) {
